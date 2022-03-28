@@ -36,6 +36,8 @@ Preguntamos al usuario mediante la función input si quiere saber los 20 paises 
 
 Recorremos los distintos arrays obtenidos gracias a `find_all()` para así poder mostrar por pantalla los 20 primeros paises del medallero.
 
+## Código Bruto:
+
 ```
 from bs4 import BeautifulSoup
 import requests
