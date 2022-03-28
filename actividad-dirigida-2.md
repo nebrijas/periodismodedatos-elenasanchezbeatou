@@ -1,5 +1,6 @@
 # Actividad Dirigida 2
-#DATOS
+
+## DATOS
 
 DGKCFDEGHFKHKDGYG
 ```
